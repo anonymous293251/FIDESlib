@@ -43,4 +43,3 @@ with open(output_file, 'w') as f:
         f.write(line + '\n')
 
 print(x.shape[0])
-
